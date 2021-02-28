@@ -1,0 +1,2 @@
+class Creatememo < ApplicationRecord
+end
